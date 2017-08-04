@@ -1,0 +1,16 @@
+LOADA  <op>    :   poni in A il valore della cella <op> della RAM                  
+LOADB  <op>    :   poni in B il valore della cella <op> della RAM                   
+STOREA <op>    :   poni nella cella <op> della RAM il valore in A                   
+STOREB <op>    :   poni nella cella <op> della RAM il valore in B                   
+READ   <op>    :   leggi dall'input un valore e ponilo nella cella <op>             
+WRITE  <op>    :   scrivi sull'output il valore contenuto nella cella <op>          
+ADD            :   poni in A il valore A+B restituito dalla ALU                     
+DIF            :   poni in A il valore A-B restituito dalla ALU                     
+LDCA   <op>    :   poni in A il valore numerico <op>                                
+LDCB   <op>    :   poni in B il valore numerico <op>                                
+JMP    <op>    :   la prossima istruzione da seguire e' nella cella <op>            
+JMPZ   <op>    :   se A=0 la prossima istruzione da eseguire e' nella cella <op>    
+NOP            :   salta l'istruzione successiva                                    
+HALT           :   fine del programma ><(((°>                                       
+END            :   inizia l'esecuzione del programma <°)))><                       
+HELP           :   mostra lista dei comandi disponibili ><(((°>                    
